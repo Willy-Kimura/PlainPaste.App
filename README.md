@@ -1,5 +1,5 @@
 # PlainPaste
-[![official-page](https://img.shields.io/badge/Website-Official-green.svg)](https://willykimura.com/plainpaste) [![buymeacoffee](https://img.shields.io/badge/Support-Donate-orange.svg)](https://www.buymeacoffee.com/willykimura) ![buymeacoffee](https://img.shields.io/badge/InspiredBy-Minimalism-ff69b4.svg) ![buymeacoffee](https://img.shields.io/badge/License-GPL--3.0-blue.svg)
+[![official-page](https://img.shields.io/badge/Website-Official-green.svg)](https://willykimura.com/plainpaste) [![buymeacoffee](https://img.shields.io/badge/Support-Donate-orange.svg)](https://www.buymeacoffee.com/willykimura) ![buymeacoffee](https://img.shields.io/badge/InspiredBy-Minimalism-ff69b4.svg) ![buymeacoffee](https://img.shields.io/badge/Platform-Windows-blue.svg)
 
 <div align="center">
 
