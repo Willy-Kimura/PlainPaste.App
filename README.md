@@ -7,7 +7,7 @@
 
 </div>
 
-**PlainPaste** is a cute and lightweight utility that clears all formattings from texts copied to the clipboard. It rids you off the nagging habit of pasting formatted texts in Notepad then re-paste the converted plain text to your desired application.
+**PlainPaste** is a cute and lightweight Windows utility that clears all formattings from texts copied to the clipboard. It rids you off the nagging habit of pasting formatted texts in Notepad then re-paste the converted plain text to your desired application.
 
 **Visit official page:** https://willykimura.com/plainpaste
 
